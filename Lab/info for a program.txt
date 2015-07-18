@@ -1,0 +1,9 @@
+2 masses 
+
+distance between both masses
+
+return gravitational force between the 2 massess
+
+gravitational force in dynes
+
+dynes is equal to (g x cm /sec^2)
